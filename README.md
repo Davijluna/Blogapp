@@ -20,4 +20,3 @@ Iniciar seu blog nunca foi tão fácil. Com o Blogapp, você pode estar publican
 
 Se você deseja um blog pessoal, um blog de negócios ou qualquer outra coisa, o Blogapp é a escolha perfeita. Dê o primeiro passo para compartilhar suas ideias com o mundo e comece a construir seu blog hoje!
 
-[**Veja a demonstração**](#) | [**Saiba mais**](#)
