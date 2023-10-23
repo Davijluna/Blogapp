@@ -129,7 +129,7 @@ require("./config/auth")(passport)
           res.redirect("/")
         })
       })
-
+//  comentario para teste da vercel
 
   app.use('/admin', admin)
   app.use('/usuarios', usuarios) // criando o grupo de rotas para usuarios
